@@ -57,7 +57,7 @@ public class specifytest extends HttpServlet {
 			{
 				if(userName != cookie.getValue())
 				{
-					System.out.println(userName);
+					System.out.println(userName+"hello");
 				}
 			}
 		}
