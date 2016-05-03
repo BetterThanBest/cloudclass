@@ -76,7 +76,7 @@ public class specify extends HttpServlet {
 			{
 				PrintWriter writer = response.getWriter();
 				writer.println("<html>");
-				writer.println("<head><title>wen</title></head>");
+				writer.println("<head><title>wen3</title></head>");
 				writer.println("<body>");
 				writer.println("haha");
 				writer.println("<p>用户名："+userName+"</p>");
